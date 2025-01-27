@@ -20,26 +20,6 @@ To install Matplotlib, use the following command:
 
 pip install matplotlib
 
-
----
-
-📂 How to Use
-
-1. Clone the repository:
-
-git clone https://github.com/yourusername/matplotlib-basics.git
-
-
-2. Navigate to the folder:
-
-cd matplotlib-basics
-
-
-3. Run any script to see the corresponding visualization:
-
-python script_name.py
-
-
 ---
 
 
